@@ -11,6 +11,9 @@ No developer to manage - non disruptive scaling - super optimal user experience
 Auto Scale your Code ![](/100x100_benefit_green.png)  
 
 High Availability across the globe 
+
+
+
 ![](/100x100_benefit.png)  
 
 ![](/100x100_benefit_easy.png)
