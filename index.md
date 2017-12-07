@@ -21,11 +21,6 @@ No developer to manage - non disruptive scaling - super optimal user experience
   </tr>
  </table>
 
-
-
-
-
-                            Relax developers
 ## How it works
 Developerless adpplications based on our Gateway API are actually developed by anyone with the skill to control a mouse and a PC. Leveraging the power of all your employees will boost your company to the next level. 
 
