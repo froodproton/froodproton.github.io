@@ -1,16 +1,14 @@
-## Welcome to froodproton
+## Developerless Computing
 
-Index.md
+Run code without thinking about the code. Let developery focus on their strengths.
 
-### Intrdoction
+### Introduction
 
-This is froodprotons github page. I don't like Jekyll on a Mac, but these pages might be useful.
+Developerless computing is the next gen of development without taking care of developers. 
 
-I am looking for the sources of the Starter Kit App for the Omron HEM 9200T Blood Pressure Monitor
-
-# Starter Kit App
+# Forget about your business and enable your hidden power
 For personal use only
 
 ### Support or Contact
 
-n/a
+developerlesscomputing@froodproton.com
