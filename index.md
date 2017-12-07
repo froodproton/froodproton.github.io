@@ -8,7 +8,7 @@ Developerless computing is the next gen of development without taking care of de
 ## Benefits
 No developer to manage - non disruptive scaling - super optimal user experience
 
-Auto Scale your Code ![]({{site.baseurl}}//100x100_benefit_green.png)  
+Auto Scale your Code ![](/100x100_benefit_green.png)  
 
 High Availability across the globe ![]({{site.baseurl}}//100x100_benefit.png)  
 
