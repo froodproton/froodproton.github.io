@@ -1,6 +1,6 @@
 ## Developerless Computing
 
-Run code without thinking about the code. Let developery focus on their strengths.
+Run code without thinking about the code. Let developers focus on their strengths.
 
 ### Introduction
 Developerless computing is the next gen of development without taking care of developers. 
