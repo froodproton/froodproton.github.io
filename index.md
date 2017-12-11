@@ -3,7 +3,7 @@
 Run code without thinking about the code. Let developers focus on their strengths.
 
 ### Introduction
-Developerless computing is the next gen of development without taking care of developers. 
+Developerless computing is the next gen of development without the need of developers. 
 
 ## Benefits
 No developer to manage  -   non disruptive scaling  -   super optimal user experience
