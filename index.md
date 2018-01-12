@@ -19,7 +19,7 @@ High Availability across the globe  -    Auto scale from 0-Billion users  -   No
 Developerless applications based on our Gateway API are actually developed by anyone with the skill to control a mouse and a PC. Leveraging the power of all your employees will boost your company to the next level in the digital space. 
 
 ## Use cases
-Coca Cola - Flame Branding - Arthur Industries 
+Cola Cola - Flame Branding - Arthur Industries 
 
 ### Support or Contact
 
